@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vestiApp/static/css/main.65fbbdb3.css",
+    "main.js": "/vestiApp/static/js/main.8f82e8a2.js",
+    "static/js/453.ed3810f9.chunk.js": "/vestiApp/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/vestiApp/index.html",
+    "main.65fbbdb3.css.map": "/vestiApp/static/css/main.65fbbdb3.css.map",
+    "main.8f82e8a2.js.map": "/vestiApp/static/js/main.8f82e8a2.js.map",
+    "453.ed3810f9.chunk.js.map": "/vestiApp/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65fbbdb3.css",
+    "static/js/main.8f82e8a2.js"
+  ]
+}
