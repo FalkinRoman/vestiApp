@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vestiApp/static/css/main.98c1c9ef.css",
+    "main.js": "/vestiApp/static/js/main.4990f57a.js",
+    "static/js/453.ed3810f9.chunk.js": "/vestiApp/static/js/453.ed3810f9.chunk.js",
+    "static/media/RFDewi-Semibold.ttf": "/vestiApp/static/media/RFDewi-Semibold.9f0d6fedfe1a1b51082d.ttf",
+    "index.html": "/vestiApp/index.html",
+    "main.98c1c9ef.css.map": "/vestiApp/static/css/main.98c1c9ef.css.map",
+    "main.4990f57a.js.map": "/vestiApp/static/js/main.4990f57a.js.map",
+    "453.ed3810f9.chunk.js.map": "/vestiApp/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98c1c9ef.css",
+    "static/js/main.4990f57a.js"
+  ]
+}

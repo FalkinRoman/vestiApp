@@ -1,10 +1,16 @@
+@font-face {
+  font-family: "RF Dewi";
+  src: url("./assets/fonts/RFDewi-Semibold.ttf");
+  font-weight: 600;
+  font-style: normal;
+}
+
 body {
-  font-family: Arial, sans-serif;
   min-width: 300px;
 }
 
 .container {
-  height: 85%;
+  height: 100%;
   display: flex;
   align-items: center;
 }
@@ -52,6 +58,7 @@ footer {
   overflow: hidden;
   width: 100%;
   position: relative;
+  margin: 0 53px;
 }
 
 .carousel-track {
@@ -64,23 +71,23 @@ footer {
   flex-direction: column;
   align-items: center;
   width: 160px;
-  height: 200px;
-  margin: 0 10px;
   cursor: pointer;
 }
 
 .carousel-item img {
   border-radius: 50%;
-  width: 160px;
-  height: 160px;
+  width: 144px;
+  height: 144px;
   object-fit: cover;
+  padding: 16px;
 }
 
 .carousel-item p {
-  margin-top: 10px;
   text-align: center;
   width: 100%;
   font-size: 14px;
+  line-height: 16px;
+  margin: 0;
 }
 .error-box {
   width: 100%;
@@ -89,13 +96,15 @@ footer {
   padding: 20px;
 }
 
-@media (max-width: 579px) {
+/* @media (max-width: 579px) {
   .carousel-item img {
     width: 140px;
     height: 140px;
   }
   .carousel-item p {
     font-size: 13px;
+    font-family: "RF Dewi";
+    font-weight: 600;
   }
 
   .carousel-item {
@@ -119,4 +128,4 @@ footer {
     height: 160px;
     margin: 0 6px;
   }
-}
+} */

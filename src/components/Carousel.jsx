@@ -64,7 +64,8 @@ const Carousel = ({ items, onItemClick }) => {
                 src={`https://api.smotrim.ru/api/v1/pictures/${item.picId}/bq/redirect`}
                 alt={`${item.firstName} ${item.lastName}`}
               />
-              <p>{`${item.name} ${item.surname}`}</p>
+              <p>{`${item.name}`}</p>
+              <p style={{ marginTop: 3 }}>{`${item.surname}`}</p>
             </div>
           ))}
         </div>

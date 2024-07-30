@@ -11,7 +11,7 @@
   top: 30%;
   z-index: 1;
   transition: all 0.1s;
-  left: 10px;
+  left: 53px;
 }
 
 .box:hover {
@@ -20,10 +20,10 @@
 
 .back {
   margin: 0;
-  font-size: 18px;
+  font-size: 24px;
 }
 
-@media (max-width: 579px) {
+/* @media (max-width: 579px) {
   .box {
     width: 38px;
     height: 38px;
@@ -32,4 +32,4 @@
   .back {
     font-size: 14px;
   }
-}
+} */
